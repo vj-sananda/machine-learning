@@ -1,0 +1,14 @@
+Address,sqft,beds,bath,built,age,lotsize,appraisal,location,sloped,SALE-PRICE,DATE-SOLD,Notes,"location 0 for neutral, 1 for cul-d-sac/view, 2 culdsace+view, -1 corner/main road"
+1713 Acacia Bud Dr,3559,5,4,2001,15,0.254,,0,0,763000,8/30/2016,,
+1904 Heliotrope Ct,4359,5,4.5,2010,6,0.347,,0,1,940000,4/21/2016,,"sloped: 0 for no, 1 yes sloped"
+10501 Indigo Broom loop,3562,5,4,1996,20,0.238,,-1,0,650000,4/7/2016,Main road,
+10317 Indigo Broom loop,4038,5,4,2004,12,0.296,,0,1,733500,6/17/2016,,
+10608 Prezia Dr,3702,5,4,2007,9,0.23,,2,0,830000,6/23/2016,cul + view,
+10604 Prezia Dr,4577,4,4.5,2007,9,0.272,,1,0,935000,11/23/2015,,
+10640 Senna Hills Dr,3809,4,4,2011,5,0.284,,-1,0,795000,12/7/2015,Main road,
+10644 Indigo Broom loop,3518,5,4.5,2000,16,0.315,,-1,0,746000,7/29/2016,Main road/corner,
+1724 Lemon Mint Ct,3520,6,4.5,2000,16,0.271,,-1,0,723000,5/20/2016,corner,
+2122 Rivina Dr,3309,4,3.5,1999,17,0.309,,0,0,699350,7/15/2016,,
+1708 Acacia Bud Dr,4446,4,3.5,2002,14,0.325,,-1,0,942500,5/3/2016,Main road,
+2137 Rivina Dr,3792,4,3.5,1999,17,0.352,,0,0,845000,8/5/2016,,
+1916 Trillium Cv,4074,5,3.5,1996,20,0.403,,-1,0,740000,6/21/2016,Bee cave road,
