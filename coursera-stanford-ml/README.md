@@ -1,4 +1,6 @@
-# machine-learning
+# machine-learning course assignments
+
+## The seminal machine-learning course on coursera.org by Stanford Prof. Andrew Ng
 
 machine-learning-ex1 : Gradient Descent, single and multi-param
 , house price prediction
